@@ -14,7 +14,7 @@ public class LoadGameGiongNhau : MonoBehaviour {
 	}
 	void OnClick()
 	{
-		Application.LoadLevel ("Ten Scene");
+		Application.LoadLevel ("Ten Scene");// them ten cua scene muon load sang
 		print ("load duoc roi nhe");
 	}
 }
